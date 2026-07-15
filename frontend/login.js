@@ -6,7 +6,7 @@ document.getElementById("loginForm").addEventListener("submit", async function(e
 
     const password=document.getElementById("password").value;
 
-    const response=await fetch("http://localhost:5000/login",{
+    const response=await fetch("https://food-order-website-yism.onrender.com/login",{
 
         method:"POST",
 

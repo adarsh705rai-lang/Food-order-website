@@ -7,7 +7,7 @@ document.getElementById("signupForm").addEventListener("submit", async function(
     const phone = document.getElementById("phone").value;
     const password = document.getElementById("password").value;
 
-    const response = await fetch("http://localhost:5000/signup",{
+    const response = await fetch("https://food-order-website-yism.onrender.com/signup",{
 
         method:"POST",
 
