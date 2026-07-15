@@ -10,7 +10,7 @@ const filePath = path.join(__dirname, "../users.json");
 // SIGN UP
 // -----------------------------
 router.post("/signup", (req, res) => {
-
+           console.log(req.body);
     const { fullName, email, phone, password } = req.body;
 
     if (!fullName || !email || !phone || !password) {
@@ -18,7 +18,7 @@ router.post("/signup", (req, res) => {
             message: "Please fill all fields."
         });
     }
-
+  
     const users = JSON.parse(fs.readFileSync(filePath));
 
     const userExists = users.find(user => user.email === email);
@@ -37,6 +37,7 @@ router.post("/signup", (req, res) => {
     });
 
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
+    console.log("Data saved:",users);
 
     res.json({
         message: "Registration Successful!"

@@ -16,10 +16,10 @@ document.getElementById("signupForm").addEventListener("submit", async function(
         },
 
         body:JSON.stringify({
-            fullName,
-            email,
-            phone,
-            password
+            fullName: fullName,
+            email:email,
+            phone:phone,
+            password:password
         })
 
     });
