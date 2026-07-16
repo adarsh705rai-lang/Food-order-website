@@ -189,17 +189,100 @@ header{
 
 /* ---- Footer--- */
 
-footer{
-    background:#222;
-    color:white;
-    text-align:center;
-    padding:20px;
-    margin-top:50px;
+.footer{
+
+    background:#1f1f1f;
+
+    color:#fff;
+
+    padding:45px 8% 20px;
+
 }
 
-footer p{
-    font-size:16px;
-    letter-spacing:1px;
+.footer-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+
+    gap:30px;
+
+}
+
+.footer-box h3{
+
+    color:#ff9800;
+
+    margin-bottom:18px;
+
+}
+
+.footer-box p{
+
+    margin:10px 0;
+
+    color:#ddd;
+
+}
+
+.footer-box a{
+
+    color:#ddd;
+
+    text-decoration:none;
+
+}
+
+.footer-box a:hover{
+
+    color:#ff9800;
+
+}
+
+.social-icons a{
+
+    display:inline-block;
+
+    width:42px;
+
+    height:42px;
+
+    line-height:42px;
+
+    text-align:center;
+
+    border-radius:50%;
+
+    background:#333;
+
+    color:#fff;
+
+    margin-right:10px;
+
+    transition:.3s;
+
+}
+
+.social-icons a:hover{
+
+    background:#ff9800;
+
+}
+
+hr{
+
+    margin:30px 0 15px;
+
+    border:1px solid #444;
+
+}
+
+.copyright{
+
+    text-align:center;
+
+    color:#bbb;
+
 }
 
 /*--- Responsive Design-- */

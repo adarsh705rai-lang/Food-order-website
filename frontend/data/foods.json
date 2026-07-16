@@ -1,0 +1,283 @@
+[
+  {
+    
+    "id": 101,
+    "name": "Butter Chicken",
+    "category": "North Indian",
+    "price": 280,
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/400x300/?butter-chicken"
+  },
+  {
+    "id": 102,
+    "name": "Paneer Butter Masala",
+    "category": "North Indian",
+    "price": 220,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?paneer"
+  },
+  {
+    "id": 103,
+    "name": "Chicken Biryani",
+    "category": "Biryani",
+    "price": 260,
+    "rating": 4.9,
+    "image": "https://source.unsplash.com/400x300/?biryani"
+  },
+  {
+    "id": 104,
+    "name": "Veg Biryani",
+    "category": "Biryani",
+    "price": 220,
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/400x300/?veg-biryani"
+  },
+  {
+    "id": 105,
+    "name": "Masala Dosa",
+    "category": "South Indian",
+    "price": 150,
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/400x300/?dosa"
+  },
+  {
+    "id": 106,
+    "name": "Idli Sambar",
+    "category": "South Indian",
+    "price": 120,
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/400x300/?idli"
+  },
+  {
+    "id": 107,
+    "name": "Chole Bhature",
+    "category": "North Indian",
+    "price": 180,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?chole-bhature"
+  },
+  {
+    "id": 108,
+    "name": "Rajma Chawal",
+    "category": "North Indian",
+    "price": 170,
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/400x300/?rajma"
+  },
+  {
+    "id": 109,
+    "name": "Dal Makhani",
+    "category": "North Indian",
+    "price": 210,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?dal"
+  },
+  {
+    "id": 110,
+    "name": "Palak Paneer",
+    "category": "North Indian",
+    "price": 220,
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/400x300/?palak-paneer"
+  },
+  {
+    "id": 111,
+    "name": "Pav Bhaji",
+    "category": "North Food",
+    "price": 160,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?pav-bhaji"
+  },
+  {
+    "id": 112,
+    "name": "Vada Pav",
+    "category": "Street Food",
+    "price": 80,
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/400x300/?vada-pav"
+  },
+  {
+    "id": 113,
+    "name": "Samosa",
+    "category": "North Indian",
+    "price": 40,
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/400x300/?samosa"
+  },
+  {
+    "id": 114,
+    "name": "Kachori",
+    "category": "Snacks",
+    "price": 50,
+    "rating": 4.4,
+    "image": "https://source.unsplash.com/400x300/?kachori"
+  },
+  {
+    "id": 115,
+    "name": "Aloo Paratha",
+    "category": "Breakfast",
+    "price": 120,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?paratha"
+  },
+  {
+    "id": 116,
+    "name": "Poori Sabzi",
+    "category": "Breakfast",
+    "price": 110,
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/400x300/?poori"
+  },
+  {
+    "id": 117,
+    "name": "Tandoori Chicken",
+    "category": "North Indian",
+    "price": 320,
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/400x300/?tandoori-chicken"
+  },
+  {
+    "id": 118,
+    "name": "Chicken Curry",
+    "category": "North Indian",
+    "price": 260,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?chicken-curry"
+  },
+  {
+    "id": 119,
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "price": 90,
+    "rating": 4.9,
+    "image": "https://source.unsplash.com/400x300/?gulab-jamun"
+  },
+  {
+    "id": 120,
+    "name": "Rasgulla",
+    "category": "Dessert",
+    "price": 90,
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/400x300/?rasgulla"
+  },
+  {
+    "id": 121,
+    "name": "Jalebi",
+    "category": "Dessert",
+    "price": 80,
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/400x300/?jalebi"
+  },
+  {
+    "id": 122,
+    "name": "Kulfi",
+    "category": "Dessert",
+    "price": 70,
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/400x300/?kulfi"
+  },
+  {
+    "id": 123,
+    "name": "Lassi",
+    "category": "Drinks",
+    "price": 90,
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/400x300/?lassi"
+  },
+{
+  "id": 126,
+  "name": "Margherita Pizza",
+  "category": "Pizza",
+  "price": 249,
+  "rating": 4.7,
+  "image": "https://source.unsplash.com/400x300/?margherita-pizza"
+},
+{
+  "id": 127,
+  "name": "Veg Farmhouse Pizza",
+  "category": "Pizza",
+  "price": 349,
+  "rating": 4.8,
+  "image": "https://source.unsplash.com/400x300/?veg-pizza"
+},
+{
+  "id": 128,
+  "name": "Chicken Pizza",
+  "category": "Pizza",
+  "price": 399,
+  "rating": 4.9,
+  "image": "https://source.unsplash.com/400x300/?chicken-pizza"
+},
+{
+  "id": 129,
+  "name": "Paneer Tikka Pizza",
+  "category": "Pizza",
+  "price": 379,
+  "rating": 4.8,
+  "image": "https://source.unsplash.com/400x300/?paneer-pizza"
+},
+{
+  "id": 130,
+  "name": "Veg Burger",
+  "category": "Burger",
+  "price": 129,
+  "rating": 4.6,
+  "image": "https://source.unsplash.com/400x300/?veg-burger"
+},
+{
+  "id": 131,
+  "name": "Cheese Burger",
+  "category": "Burger",
+  "price": 169,
+  "rating": 4.7,
+  "image": "https://source.unsplash.com/400x300/?cheese-burger"
+},
+{
+  "id": 132,
+  "name": "Chicken Burger",
+  "category": "Burger",
+  "price": 199,
+  "rating": 4.8,
+  "image": "https://source.unsplash.com/400x300/?chicken-burger"
+},
+{
+  "id": 133,
+  "name": "Double Patty Burger",
+  "category": "Burger",
+  "price": 249,
+  "rating": 4.9,
+  "image": "https://source.unsplash.com/400x300/?double-burger"
+},
+{
+  "id": 134,
+  "name": "Veg Hakka Noodles",
+  "category": "Chinese",
+  "price": 189,
+  "rating": 4.7,
+  "image": "https://source.unsplash.com/400x300/?hakka-noodles"
+},
+{
+  "id": 135,
+  "name": "Chicken Fried Rice",
+  "category": "Chinese",
+  "price": 229,
+  "rating": 4.8,
+  "image": "https://source.unsplash.com/400x300/?fried-rice"
+},
+{
+  "id": 136,
+  "name": "Chicken Manchurian",
+  "category": "Chinese",
+  "price": 249,
+  "rating": 4.8,
+  "image": "https://source.unsplash.com/400x300/?manchurian"
+},
+{
+  "id": 137,
+  "name": "Spring Rolls",
+  "category": "Chinese",
+  "price": 159,
+  "rating": 4.6,
+  "image": "https://source.unsplash.com/400x300/?spring-rolls"
+}
+]

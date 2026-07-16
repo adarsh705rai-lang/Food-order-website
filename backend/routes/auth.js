@@ -35,7 +35,8 @@ router.post("/signup", (req, res) => {
         phone,
         password
     });
-
+  console.log("File path:",filePath);
+    console.log("User before saving",users);
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
     console.log("Data saved:",users);
 
